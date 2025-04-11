@@ -65,11 +65,3 @@ src/
 - [GitHub REST API](https://docs.github.com/en/rest)  
   Endpoint: `https://api.github.com/users/:username/repos`
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-> Created with 💚 by [Your Name](https://github.com/your-username)
-
